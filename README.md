@@ -1,5 +1,7 @@
 # fasthands
 
+<sub>A <a href="https://halleylabs.dev">Halley</a> project</sub>
+
 **Open-source, model-agnostic computer use. Same task, fewer tokens, fewer turns,
 with any model as the brain, including a 4B running on your laptop.**
 
@@ -256,7 +258,7 @@ of them do is diff observations: every one resends full state, every turn.
 ## Quick start
 
 ```bash
-git clone https://github.com/anzal1/fasthands && cd fasthands
+git clone https://github.com/halleylabs/fasthands && cd fasthands
 npm install && npx playwright install chromium
 
 npm run bench -- --repeat 5                               # keyless 120-run headline

@@ -4,6 +4,14 @@
   "description": "Open-source, model-agnostic computer use. Diff observations + guarded action batching = fewer tokens, fewer turns, faster tasks.",
   "type": "module",
   "license": "MIT",
+  "homepage": "https://github.com/halleylabs/fasthands#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halleylabs/fasthands.git"
+  },
+  "bugs": {
+    "url": "https://github.com/halleylabs/fasthands/issues"
+  },
   "scripts": {
     "build": "tsc",
     "bench": "node --experimental-strip-types src/bench/run.ts",

@@ -86,7 +86,7 @@ astra style, 0/20 drift catastrophes, a 4B doing real web tasks at 46% lower
 live cost, and a paint gallery made of guarded mouse events.
 
 every number re-derives from one command. MIT.
-https://github.com/anzal1/fasthands
+https://github.com/halleylabs/fasthands
 
 ---
 single tweet alternative:
@@ -97,7 +97,7 @@ behind it cuts computer-use tokens 91% vs screenshot loops, survives DOM
 drift 20/20 where blind batching fails 20/20, and carries a 4B local model
 through real web tasks. built by recursive benchmarking: measure, break, fix,
 measure again. open source, every number reproducible keyless:
-https://github.com/anzal1/fasthands
+https://github.com/halleylabs/fasthands
 
 full report artifact (share from the page first):
 https://claude.ai/code/artifact/1ab0a89d-2b5e-4c6a-b975-6a0e7a37083a
